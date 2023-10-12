@@ -1,0 +1,4 @@
+﻿  cMediaPlayer.cpp
+C:\Users\maxim\Git_Files\MediaFundamentalsExampleProj\MediaFund_ExampleProj\MediaFund_ExampleProj\cMediaPlayer.cpp(322,87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\maxim\Git_Files\MediaFundamentalsExampleProj\MediaFund_ExampleProj\MediaFund_ExampleProj\cMediaPlayer.cpp(346,87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MediaFund_ExampleProj.vcxproj -> C:\Users\maxim\Git_Files\MediaFundamentalsExampleProj\MediaFund_ExampleProj\x64\Debug\MediaFund_ExampleProj.exe

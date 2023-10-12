@@ -1,0 +1,8 @@
+Audio/jaguar.wav
+Audio/swish.wav
+Audio/singing.wav
+Audio/standrews.wav
+Audio/wave.mp3
+Audio/awesomeness.wav
+Audio/drumloop.wav
+Audio/awesomeness.mp3
